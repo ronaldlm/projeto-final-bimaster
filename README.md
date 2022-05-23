@@ -1,6 +1,8 @@
 
 # Extração, exploração e análise dos dados de pedidos de patentes publicados nas Revistas da Propriedade Industrial
 
+# Extraction, exploration and analysis of data from patent applications published by INPI
+
 #### Aluno: [Ronald Alzamende Martins](https://github.com/ronaldlm)
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
 #### Co-orientador(/a/es/as): [Felipe Borges](https://github.com/FelipeBorgesC) e Guilherme Strachan
